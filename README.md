@@ -3,8 +3,6 @@
      
 # Java Language Sample Code
 
-  # public static void main(String... args) {
-  
      /**
       * Combox Option Object
       */
@@ -23,5 +21,4 @@
      // parse remaining options
      if (cmd.hasOption(HELP.toString())) {
          printHelp();
-     }
- # } // finish   
+     }  
