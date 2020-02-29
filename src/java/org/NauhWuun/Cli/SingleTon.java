@@ -1,4 +1,4 @@
-package Cli;
+package org.NauhWuun.Cli;
 
 import java.io.Serializable;
 import java.util.concurrent.ConcurrentHashMap;

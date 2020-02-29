@@ -1,4 +1,4 @@
-package Cli;
+package org.NauhWuun.Cli;
 
 import Cli.Option;
 
