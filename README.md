@@ -1,5 +1,5 @@
 # MyCli
-     Easy Console Control, Lowlevel-Language Style!
+     Easy Console Control, Same as Apache-commons-cli.
      
 # Java Language Example:
 
