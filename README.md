@@ -1,7 +1,7 @@
 # MyCli
-     Easy Console Control, Lowlevel Style!
+     Easy Console Control, Lowlevel-Language Style!
      
-# Java Language Sample Code
+# Java Language Example:
 
      /**
       * Combox Option Object
