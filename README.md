@@ -1,7 +1,7 @@
 # MyCli
      Easy Console Control, Same as Apache-commons-cli.
      
-# Java Language Example:
+# Java Example:
 
      /**
       * Combox Option Object
