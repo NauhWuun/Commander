@@ -1,5 +1,5 @@
 # MyCli
-     Easy Console Control, Same as Apache-commons-cli.
+     Easy Console, Same Apache-commons-cli.
      
 # Java Example:
 
