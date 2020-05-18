@@ -1,6 +1,3 @@
-# MyCli
-     Easy Console, Same Apache-commons-cli.
-     
 # Java Example:
 
      /**
